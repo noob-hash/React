@@ -1,0 +1,198 @@
+{
+  "users": [
+    {
+      "username": "subin_sedhai",
+      "password": "Password123@",
+      "email": "subin@gmail.com",
+      "firstName": "Subin",
+      "lastName": "Sedhai",
+      "dob": "2002-12-12",
+      "cpassword": "Password123@",
+      "gender": "Male",
+      "phone": "9819191919",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Sarah",
+      "lastName": "Johnson",
+      "dob": "1995-05-25",
+      "username": "sarah_j",
+      "password": "SarahPass456#",
+      "cpassword": "SarahPass456#",
+      "email": "sarah.johnson@example.com",
+      "gender": "Female",
+      "phone": "9876543210"
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Doe",
+      "dob": "1988-09-18",
+      "username": "johndoe88",
+      "password": "DoePass789!",
+      "cpassword": "DoePass789!",
+      "email": "john.doe@example.com",
+      "gender": "Male",
+      "phone": "8765432109"
+    },
+    {
+      "id": 4,
+      "firstName": "Emily",
+      "lastName": "Smith",
+      "dob": "1990-07-30",
+      "username": "emily_smith",
+      "password": "SmithPass@123",
+      "cpassword": "SmithPass@123",
+      "email": "emily.smith@example.com",
+      "gender": "Female",
+      "phone": "7890123456"
+    },
+    {
+      "id": 5,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "dob": "1985-04-15",
+      "username": "mike_brown",
+      "password": "BrownPass123$",
+      "cpassword": "BrownPass123$",
+      "email": "michael.brown@example.com",
+      "gender": "Male",
+      "phone": "9876543210"
+    },
+    {
+      "id": 6,
+      "firstName": "Anna",
+      "lastName": "Miller",
+      "dob": "1993-12-28",
+      "username": "anna_m",
+      "password": "MillerPass@2023",
+      "cpassword": "MillerPass@2023",
+      "email": "anna.miller@example.com",
+      "gender": "Female",
+      "phone": "8765432109"
+    },
+    {
+      "firstName": "Subin",
+      "lastName": "Sedhai",
+      "dob": "2001-12-12",
+      "username": "subin_sedhai",
+      "password": "Password12@",
+      "cpassword": "Password12@",
+      "email": "umesh@gmail.com",
+      "gender": "Male",
+      "phone": "9800000000",
+      "id": 7
+    },
+    {
+      "firstName": "Subin",
+      "lastName": "Sedhai",
+      "dob": "2019-12-31",
+      "email": "umesh@gmail.com",
+      "gender": "Male",
+      "phone": "980000000",
+      "username": "wq",
+      "password": "wssd",
+      "cpassword": "sdaw",
+      "id": 8
+    },
+    {
+      "firstName": "Subin",
+      "lastName": "Sedhai",
+      "dob": "2019-12-31",
+      "email": "umesh@gmail.com",
+      "gender": "Male",
+      "phone": "980000000",
+      "username": "wq",
+      "password": "wssd",
+      "cpassword": "sdaw",
+      "id": 9
+    },
+    {
+      "firstName": "Breanna",
+      "lastName": "Mendoza",
+      "dob": "2005-08-08",
+      "username": "mybepax",
+      "password": "Pa$$w0rd!",
+      "cpassword": "Pa$$w0rd!",
+      "email": "fenerujo@mailinator.com",
+      "gender": "Illo non commodo atq",
+      "phone": "+1 (533) 764-4385",
+      "id": 10
+    }
+  ],
+  "doctor": [
+    {
+      "firstName": "Jonas",
+      "lastName": "Hester",
+      "dob": "1971-02-14",
+      "email": "kypikycyr@mailinator.com",
+      "gender": "Tempora vitae eligen",
+      "phone": "+1 (515) 918-8205",
+      "username": "haxicyje",
+      "password": "Pa$$w0rd!",
+      "cpassword": "Pa$$w0rd!",
+      "doctorInfo": {
+        "speciality": "Qui asperiores deser",
+        "education": "Aliquid omnis quaera",
+        "licence_no": "382",
+        "description": "Nostrud vero incidun"
+      },
+      "id": 1
+    },
+    {
+      "email": "tidas@mailinator.com",
+      "firstName": "Wallace",
+      "lastName": "Cortez",
+      "dob": "2000-09-15",
+      "gender": "Iste sunt laborum Q",
+      "phone": "+1 (398) 667-3302",
+      "username": "kepamo",
+      "password": "Pa$$w0rd!",
+      "cpassword": "sfsfe",
+      "doctorInfo": {
+        "speciality": "Duis sint voluptatem",
+        "education": "Obcaecati dolores au",
+        "licence_no": "95",
+        "description": "aaa"
+      },
+      "id": 3
+    },
+    {
+      "email": "tidas@mailinator.com",
+      "firstName": "Wallace",
+      "lastName": "Cortez",
+      "dob": "2000-09-15",
+      "gender": "Iste sunt laborum Q",
+      "phone": "+1 (398) 667-3302",
+      "username": "kepamo",
+      "password": "Pa$$w0rd!",
+      "cpassword": "sfsfe",
+      "doctorInfo": {
+        "speciality": "Duis sint voluptatem",
+        "education": "Obcaecati dolores au",
+        "licence_no": "95",
+        "description": "aaa"
+      },
+      "id": 4
+    },
+    {
+      "email": "tidas@mailinator.com",
+      "firstName": "Wallace",
+      "lastName": "Cortez",
+      "dob": "2000-09-15",
+      "gender": "Iste sunt laborum Q",
+      "phone": "+1 (398) 667-3302",
+      "username": "kepamo",
+      "password": "Pa$$w0rd!",
+      "cpassword": "sfsfe",
+      "doctorInfo": {
+        "speciality": "Duis sint voluptatem",
+        "education": "Obcaecati dolores au",
+        "licence_no": "95",
+        "description": "aaa"
+      },
+      "id": 5
+    }
+  ]
+}
